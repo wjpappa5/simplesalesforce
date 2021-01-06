@@ -1,8 +1,0 @@
-sf_username= 'pappaswilliamj@gmail.com'
-sf_password= 'fiVe23831four?'
-sf_security_token= 'cwPCURbgVc1ZDIjjeKMMUHV3h'
-remote_db_endpoint = 'databootcamp.c8lgl8ap2kvz.us-east-2.rds.amazonaws.com'
-remote_db_port = '3306'
-remote_db_user = 'admin'
-remote_db_pwd = 'databootcamp'
-remote_db_name = 'gwsis'
